@@ -46,7 +46,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-semibold arabic-text">الهاتف</p>
-                  <p className="text-gray-600">+212631721359</p>
+                  <p className="text-gray-600">+212601449135</p>
                 </div>
               </div>
 
@@ -56,7 +56,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-semibold arabic-text">البريد الإلكتروني</p>
-                  <p className="text-gray-600">ff219541@gmail.com</p>
+                  <p className="text-gray-600">asma_designer@outlook.com</p>
                 </div>
               </div>
 
@@ -132,7 +132,7 @@ export function ContactSection() {
                   <h4 className="text-xl font-semibold mb-4 arabic-text">شكراً لتواصلك معنا!</h4>
                   <p className="text-gray-700 mb-6 arabic-text">يمكنك التواصل معنا مباشرة عبر الواتساب</p>
                   <Button
-                    onClick={() => window.open(`https://wa.me/212631721359`, "_blank")}
+                    onClick={() => window.open(`https://wa.me/212601449135`, "_blank")}
                     className="bg-green-500 hover:bg-green-600"
                   >
                     <MessageCircle className="w-4 h-4 ml-2" />

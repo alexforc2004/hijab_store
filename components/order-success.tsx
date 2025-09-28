@@ -20,7 +20,7 @@ export function OrderSuccess({ isOpen, onClose, orderNumber, customerInfo }: Ord
         <CardContent className="p-8 text-center">
           <CheckCircle className="w-16 h-16 text-green-500 mx-auto mb-4" />
           <h2 className="text-2xl font-bold text-green-800 mb-2 arabic-text">تم تأكيد طلبك!</h2>
-          <p className="text-gray-600 mb-6 arabic-text">شكراً لك على ثقتك في متجر Hijab Elegance</p>
+          <p className="text-gray-600 mb-6 arabic-text">شكراً لك على ثقتك في متجر Hijab Elegance By Asma</p>
 
           <div className="bg-green-50 p-4 rounded-lg mb-6">
             <div className="flex items-center justify-center gap-2 mb-2">

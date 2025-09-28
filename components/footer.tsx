@@ -55,11 +55,11 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-pink-400" />
-                <span className="text-gray-400">+212631721359</span>
+                <span className="text-gray-400">+212601449135</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-blue-400" />
-                <span className="text-gray-400">ff219541@gmail.com</span>
+                <span className="text-gray-400">asma_designer@outlook.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-green-400" />

@@ -166,7 +166,7 @@ export default function HomePage() {
       <section className="relative py-20 px-4 text-center">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-6xl font-serif font-bold text-gray-900 mb-6 arabic-text">
-            متجر أسماء للحجاب
+           Hijab Elegance BY ASMA
           </h1>
           <p className="text-xl text-gray-600 mb-8 arabic-text leading-relaxed">
             أجمل وأرقى الحجابات المغربية بجودة عالية وأسعار مناسبة

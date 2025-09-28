@@ -59,7 +59,7 @@ export function OrderSuccess({ isOpen, onClose, orderNumber, customerInfo }: Ord
             <Button
               variant="outline"
               size="sm"
-              onClick={() => window.open(`tel:+212631721359`, "_self")}
+              onClick={() => window.open(`tel:+212601449135`, "_self")}
               className="flex-1"
             >
               <Phone className="w-4 h-4 ml-1" />
@@ -68,7 +68,7 @@ export function OrderSuccess({ isOpen, onClose, orderNumber, customerInfo }: Ord
             <Button
               variant="outline"
               size="sm"
-              onClick={() => window.open(`https://wa.me/212631721359?text=مرحبا، رقم طلبي هو ${orderNumber}`, "_blank")}
+              onClick={() => window.open(`https://wa.me/212601449135?text=مرحبا، رقم طلبي هو ${orderNumber}`, "_blank")}
               className="flex-1"
             >
               <Mail className="w-4 h-4 ml-1" />

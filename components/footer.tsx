@@ -13,7 +13,7 @@ export function Footer() {
                 <span className="text-white font-bold text-lg">أ</span>
               </div>
               <div>
-                <h3 className="text-xl font-serif font-bold arabic-text">متجر أسماء</h3>
+                <h3 className="text-xl font-serif font-bold arabic-text">Hijab Elegance</h3>
                 <p className="text-sm text-gray-400 arabic-text">للحجاب المغربي</p>
               </div>
             </div>

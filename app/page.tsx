@@ -167,6 +167,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-6xl font-serif font-bold text-gray-900 mb-6 arabic-text">
            Hijab Elegance BY ASMA
+        
           </h1>
           <p className="text-xl text-gray-600 mb-8 arabic-text leading-relaxed">
             أجمل وأرقى الحجابات المغربية بجودة عالية وأسعار مناسبة

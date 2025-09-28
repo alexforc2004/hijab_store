@@ -18,7 +18,7 @@ const amiri = Amiri({
 export const metadata = {
   title: "Hijab Elegance BY ASMA",
   description: "أفضل متجر للحجاب في المغرب - جودة عالية وأسعار مناسبة",
-    generator: 'v0.app'
+    generator: 'azz.dev'
 }
 
 export default function RootLayout({

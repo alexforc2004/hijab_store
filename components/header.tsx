@@ -26,7 +26,7 @@ export function Header({ cartCount, wishlistCount, onCartClick, onWishlistClick,
               <span className="text-white font-bold text-lg">أ</span>
             </div>
             <div>
-              <h1 className="text-xl font-serif font-bold text-gray-900 arabic-text">متجر أسماء</h1>
+              <h1 className="text-xl font-serif font-bold text-gray-900 arabic-text">Hijab-Elegance</h1>
               <p className="text-sm text-gray-600 arabic-text">للحجاب المغربي</p>
             </div>
           </div>

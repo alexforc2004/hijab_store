@@ -70,7 +70,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-gray-400 arabic-text">جميع الحقوق محفوظة © 2025 متجر أسماء للحجاب</p>
+          <p className="text-gray-400 arabic-text">جميع الحقوق محفوظة © 2025 Hijab Elegance BY ASMA</p>
           <p className="text-sm text-gray-500 mt-2 flex items-center justify-center gap-1">
             صنع بـ <Heart className="w-4 h-4 text-pink-400" fill="currentColor" /> في المغرب
           </p>
